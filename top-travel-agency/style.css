@@ -1,0 +1,11 @@
+body{
+    background-image: url("images/top-travel-agencies--1024x576.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.cards{
+    display: grid;
+
+}
